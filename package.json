@@ -1,0 +1,15 @@
+{
+  "name": "slidev-img-load-bug-reproducer",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.1",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "@slidev/types": "^0.40.1"
+  }
+}
